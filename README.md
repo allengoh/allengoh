@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 | Name               | Description                        | Tech/tools                               |
 | -------------------| ---------------------------------- | -----------------------------------------|
 | [Divvy](https://github.com/allengoh/divvy-app)    | A mobile app for splitting the bill amongst friends and family in restaurants. Users can take a photo of a restaurant receipt and have it itemised on the app. It is able to add a few charges including tips, service charges, taxes, and able to subtract discounts.           | Javascript, React Native, Node.js, Expo, Realm, Taggun, CSS          |                               
-| [Bank-Tech-Test](https://github.com/allengoh/Bank-tech-test-ruby) | A terminal-based application for managing a bank account. Users can deposit money, withdraw money and print a bank statement listing the transactions and their dates.  | Ruby, RSpec 
+| [Bank-Tech-Test](https://github.com/allengoh/Bank-tech-test-ruby) (Ruby) | A terminal-based application for managing a bank account. Users can deposit money, withdraw money and print a bank statement listing the transactions and their dates.  | Ruby, RSpec 
 | [Acebook](https://github.com/allengoh/the-axylotls-acebook) | A social media web application for connecting with people. Users can sign up for an account with a profile, be able to upload a profile picture, view and comment on their friends posts, and give a like emoji on both posts and comments.  | Javascript, Jest, Node, ESLint, Handlebars, Cypress, Express
 
 <br>
