@@ -17,9 +17,13 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-<p>I'm a full stack software engineer who has undergone a 16 week Bootcamp with the Makers Academy - July 2022 cohort.</p>
-<p>I'm a registered pharmacist praticing in the UK and I have been practicing for 6 years before I discovered my passion for software development and took that leap to join Makers to make that career transition.</p>
+I am a full-stack software engineer who has undergone a 16-week Bootcamp with the Makers Academy - July 2022 cohort.
+<br><br>
+I am a registered pharmacist praticing in the UK for 6 years. I have fond memories of when I owned a blog on Blogger.com as a teenager fiddling around with HTML and CSS for hours trying to make my blog look good. I have never thought much about making a living coding back then. However, I started picking coding back up in 2022 and rekindled my passion for software development and took that leap to join Makers to make a career transition.
+<br><br>
+Check out my [PDF CV](https://github.com/allengoh/allengoh/blob/main/allengoh_cv.pdf).
 <br>
+
 
 ## Projects:
 
@@ -53,7 +57,7 @@ I believe in communicating well and I pride myself for it. As a pharmacist, havi
 
 ##  Education:
 
-### Makers Academy (Jul '22 - Oct '22)
+### 👨‍💻 Makers Academy (Jul '22 - Oct '22)
 12-weeks full-time software development Bootcamp
 - Agile methodologies, XP values, Pair programming
 - Test driven development and behaviour driven development
@@ -65,12 +69,12 @@ I believe in communicating well and I pride myself for it. As a pharmacist, havi
 
 <br>
 
-### University of Sunderland (Sept '10 - July '14)
+### 🎓 University of Sunderland (Sept '10 - July '14)
 - Master of Pharmacy (Upper Second-Class Honours)
 
 <br>
 
-### CFA Level 2 candidate
+### 🔢 CFA Level 2 candidate
 I enrolled onto this course for my own self development and to challenge myself as I am interested in finance and investment on the side. I withhold enrolling onto Level 3 to focus on Makers bootcamp and transitioning into a career in software development. 
 - Passed Level 1 in January 2019
 - Passed Level 2 in January 2022
@@ -78,7 +82,9 @@ I enrolled onto this course for my own self development and to challenge myself 
 <br>
 
 ## Hobbies:
-- I enjoy reading to keep up to date in all things tech and finance. Publications I read on a consistent basis are: Financial Times, The Economist, New York Times, Barron's, The Wall Street Journal, and The Atlantic.
-- I enjoy playing badminton
+- 📚 Reading (to keep up to date in tech and finance. I enjoy the publications: Financial Times, The Economist, New York Times, Barron's, The Wall Street Journal, and The Atlantic)
+- 🏸 Badminton
+- 🥾 Hiking
+- 🎱 Billiards (8 ball, 9 ball, snooker)
 
 
