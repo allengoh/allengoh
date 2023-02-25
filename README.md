@@ -32,6 +32,7 @@ Check out my [PDF CV](https://github.com/allengoh/allengoh/blob/main/allengoh_cv
 | [Divvy](https://github.com/allengoh/divvy-app)    | A mobile app for splitting the bill amongst friends and family in restaurants. Users can take a photo of a restaurant receipt and have it itemised on the app. It is able to add a few charges including tips, service charges, taxes, and able to subtract discounts.           | Javascript, React Native, Node.js, Expo, Realm, Taggun, CSS          |                               
 | [Bank-Tech-Test](https://github.com/allengoh/Bank-Tech-Test-Javascript) | A terminal-based application for managing a bank account. Built using the Model-View-Controller design pattern. Users can deposit money, withdraw money and print a bank statement listing the transactions and their dates.  | Javascript, Jest, Nodemon 
 | [Acebook](https://github.com/allengoh/the-axylotls-acebook) | A social media web application for connecting with people. Users can sign up for an account with a profile, be able to upload a profile picture, view and comment on their friends posts, and give a like emoji on both posts and comments.  | Javascript, Jest, Node, ESLint, Handlebars, Cypress, Express
+| [MakersBNB](https://github.com/allengoh/makersbnb-ruby-seed) | An online marketplace web application for connecting hosts with guests. Users can sign up for an account with a profile, be able to rent out their accomodation and book other host's accomodation.  | Ruby, Sinatra, HTML, CSS, Rack-Test, RSpec, BCrypt
 
 <br>
 
