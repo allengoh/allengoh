@@ -80,12 +80,4 @@ I enrolled onto this course for my own self development and to challenge myself 
 - Passed Level 1 in January 2019
 - Passed Level 2 in January 2022
 
-<br>
-
-## Hobbies:
-- 📚 Reading (to keep up to date in tech and finance. I enjoy the publications: Financial Times, The Economist, New York Times, Barron's, The Wall Street Journal, and The Atlantic)
-- 🏸 Badminton
-- 🥾 Hiking
-- 🎱 Billiards (8 ball, 9 ball, snooker)
-
 
